@@ -48,5 +48,5 @@
 ---
 
 ### 🔗 Connect With Me  
-📩 Email: *your email*  
-💼 LinkedIn: *your link*
+📩 Email: 
+💼 LinkedIn:
